@@ -1,4 +1,7 @@
-# PHP Manoel Framework
+Kotha PHP MVC Framework
+
+É um pequeno e leve framework desenvolvido em PHP usando MVC.
+A documentação anda está sendo desenvolvida.
 
 ## Configuração
 ## Controladores
